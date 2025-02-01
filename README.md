@@ -1,8 +1,32 @@
-# React + Vite
+🍽️ Recipe Finder App
+A simple and interactive Recipe Finder App built with React.js that allows users to search for delicious meals from TheMealDB API. Just enter the name of a dish, and the app will fetch relevant recipes along with their details.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Search for meals by name
+✅ Displays meal details (ingredients, instructions, and images)
+✅ Responsive and user-friendly design
+✅ Built using React.js and Tailwind CSS
 
-Currently, two official plugins are available:
+🛠️ Technologies Used
+React.js ⚛️
+Fetch API 🌐
+Tailwind CSS 🎨
+TheMealDB API 🍲
+🔧 How to Run
+Clone the repository:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+git clone https://github.com/yourusername/recipe-finder.git
+cd RECIPE-WEB-APP
+
+Install dependencies:
+npm install
+Start the development server:
+
+npm start
+📌 Future Enhancements
+🍛 Add meal categories and filters
+📝 Save favorite recipes
+🌍 Multi-language support
+Give it a ⭐ if you find it useful! 😊
+
+Feel free to customize it according to your repo’s details. 🚀
