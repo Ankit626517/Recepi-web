@@ -15,7 +15,7 @@ TheMealDB API 🍲
 🔧 How to Run
 Clone the repository:
 
-git clone https://github.com/yourusername/recipe-finder.git
+git clone https://github.com/Ankit626517/recipe-finder.git
 cd RECIPE-WEB-APP
 
 Install dependencies:
